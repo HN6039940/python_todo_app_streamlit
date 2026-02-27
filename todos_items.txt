@@ -1,3 +1,2 @@
 ‚ 
-Write todo
 delete todo
